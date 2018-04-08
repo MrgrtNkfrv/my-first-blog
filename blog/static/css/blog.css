@@ -1,0 +1,17 @@
+h1 {
+font: Times New Roman, Times, serif, sans-serif, Arial;
+font-size: 40px;
+color:#CCCCCC;
+text-transform:capitalize;
+text-align:center;
+padding-top: 50px;
+}
+
+.date{
+font-size:130%; 
+color:#A30000; 
+font-weight:bold; 
+background:url(leaf.gif) no-repeat top center; 
+padding: 60px 10px 10px; 
+text-align:center
+}
